@@ -23,4 +23,4 @@ This project explores **key factors contributing to diabetes in women** and prov
 - **Data Visualization** – Creating pivot tables and charts for insights.  
 
 ## 📗 Dataset Used
-- <a href="C:\Users\jasmi\Downloads\diabetes.csv">Women Diabetes Dataset</a>
+- <a href="https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset">Women Diabetes Dataset</a>
