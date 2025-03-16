@@ -23,3 +23,9 @@ This project explores **key factors contributing to diabetes in women** and prov
 - **Data Visualization** – Creating pivot tables and charts for insights.  
 
 ## 📂 Repository Structure  
+📂 Women's Diabetes Analysis
+├── 📁 Data # Raw dataset used for analysis
+├── 📁 Reports # Insights, key findings, and summary reports
+├── 📁 Visualizations # Charts, pivot tables, and dashboards
+├── analysis.xlsx # Processed Excel file with insights
+├── README.md # Project documentation
