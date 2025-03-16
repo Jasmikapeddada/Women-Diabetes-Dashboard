@@ -22,10 +22,5 @@ This project explores **key factors contributing to diabetes in women** and prov
 - **EDA (Exploratory Data Analysis)** – Identifying patterns and trends.  
 - **Data Visualization** – Creating pivot tables and charts for insights.  
 
-## 📂 Repository Structure  
-📂 Women's Diabetes Analysis
-- 📁 Data # Raw dataset used for analysis
-- 📁 Reports # Insights, key findings, and summary reports
-- 📁 Visualizations # Charts, pivot tables, and dashboards
-- analysis.xlsx # Processed Excel file with insights
-- README.md # Project documentation
+## 📗 Dataset Used
+- <a href="[https://bit.ly/3X381ok](https://d.docs.live.net/40EDFEEDC5FD4101/Documents/diabetes.xlsx)">Women Diabetes Dataset</a>
